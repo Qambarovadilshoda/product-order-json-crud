@@ -1,0 +1,22 @@
+[
+    {
+        "id": "66b3ca43365df",
+        "productId": "66b3c822ae3d7",
+        "total_price": 200000
+    },
+    {
+        "id": "66b3ca43366ab",
+        "productId": "66b3c822ae4a2",
+        "total_price": 400000
+    },
+    {
+        "id": "66b3ca4336739",
+        "productId": "66b3c822ae517",
+        "total_price": 600000
+    },
+    {
+        "id": "66b45e6863cc7",
+        "productId": "66b3c822ae3d7",
+        "total_price": 400000
+    }
+]

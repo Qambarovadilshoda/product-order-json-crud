@@ -1,0 +1,23 @@
+[
+    {
+        "id": "66b3c822ae3d7",
+        "name": "Olma",
+        "price": 100000
+    },
+    {
+        "id": "66b3c822ae4a2",
+        "name": "Nok",
+        "price": 200000
+    },
+    {
+        "id": "66b3c822ae517",
+        "name": "Qovun",
+        "price": 300000
+    },
+    
+    {
+        "id": "66b3caac9d1f1",
+        "name": "Banan",
+        "price": 400000
+    }
+]
